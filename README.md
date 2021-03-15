@@ -1,4 +1,4 @@
-# Git Practice
+# Practice
 
 **Quick Start**
 
@@ -58,7 +58,7 @@
 
 terminal에서 사용 가능한 editor
 
-1. vi file.txt : 파일을 생성 or 파일을 읽음
-2. i 로 insert mode
-3. :w 로 저장
-4. :q 로 exit 
+* vi file.txt : 파일을 생성 or 파일을 읽음
+* i 로 insert mode
+* :w 로 저장
+* :q 로 exit 
