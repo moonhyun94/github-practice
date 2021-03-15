@@ -48,7 +48,7 @@
 * ls / ls -a : 현재 디렉토리 파일 list
 * echo
 * cat [file-name] : file안의 내용 출력
-* rm [file-name] : file remove
+* rm [file-name] : remove file
 * rm -rf [folder-name] : 폴더 강제 삭제
 * pwd (print working directory) : 현재 디렉토리 출력
 
