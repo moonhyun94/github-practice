@@ -40,3 +40,25 @@
 
 10. 나의 request가 confirm 되면 적용됨
 
+---
+
+**Linux Commands**
+
+* cd (change directory)
+* ls / ls -a : 현재 디렉토리 파일 list
+* echo
+* cat [file-name] : file안의 내용 출력
+* rm [file-name] : file remove
+* rm -rf [folder-name] : 폴더 강제 삭제
+* pwd (print working directory) : 현재 디렉토리 출력
+
+---
+
+**Vim**
+
+terminal에서 사용 가능한 editor
+
+1. vi file.txt : 파일을 생성 or 파일을 읽음
+2. i 로 insert mode
+3. :w 로 저장
+4. :q 로 exit 
