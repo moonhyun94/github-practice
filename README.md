@@ -23,4 +23,6 @@
 
 1. pull request를 보내고자 하는 repo를 fork
 2. fork 한 repo를 local에 clone (ex: upstream)
-3. 
+3. <img width="385" alt="12" src="https://user-images.githubusercontent.com/55631006/111112901-4beebd00-85a4-11eb-8467-208b5e62d637.PNG">
+git remote add (repo-name) repo owner's http
+
